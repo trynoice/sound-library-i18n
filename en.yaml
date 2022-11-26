@@ -1,0 +1,99 @@
+groups:
+  life:
+    name: Life
+  places:
+    name: Places
+  raw_noise:
+    name: Raw Noise
+  things:
+    name: Things
+  travel:
+    name: Travel
+  weather:
+    name: Weather
+sounds:
+  air_travel:
+    name: Air Travel
+  birds:
+    name: Birds
+  brownian_noise:
+    name: Brownian Noise
+  campfire:
+    name: Campfire
+  coffee_shop:
+    name: Coffee Shop
+  creaking_boat:
+    name: Creaking Boat
+  crickets:
+    name: Crickets
+  electric_car:
+    name: Electric Car
+  fan:
+    name: Fan
+  heartbeat:
+    name: Heartbeat
+  night:
+    name: Night
+  office:
+    name: Office
+  pink_noise:
+    name: Pink Noise
+  public_library:
+    name: Public Library
+  purring_cat:
+    name: Purring Cat
+  quiet_conversations:
+    name: Quiet Conversations
+  rain:
+    name: Rain
+  scuba_diving:
+    name: Scuba Diving
+  seagulls:
+    name: Seagulls
+  seashore:
+    name: Seashore
+  soft_wind:
+    name: Soft Wind
+  thunder:
+    name: Thunder
+  train:
+    name: Train
+  village_morning:
+    name: Morning in a Village
+  walking_in_snow:
+    name: Walking in Snow
+  wall_clock:
+    name: Wall Clock
+  water_stream:
+    name: Water Stream
+  white_noise:
+    name: White Noise
+  wind_chimes:
+    name: Wind Chimes
+  wind_through_palm_trees:
+    name: Wind Through Palm Trees
+  wolves:
+    name: Wolves
+tags:
+  animal:
+    name: Animals
+  indoor:
+    name: Indoor
+  night:
+    name: Night
+  outdoor:
+    name: Outdoor
+  people:
+    name: People
+  static:
+    name: Static
+  travel:
+    name: Travel
+  utility:
+    name: Utility
+  vehicle:
+    name: Vehicle
+  water:
+    name: Water
+  weather:
+    name: Weather
