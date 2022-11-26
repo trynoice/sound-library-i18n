@@ -1,0 +1,99 @@
+groups:
+  raw_noise:
+    name: Ruido en bruto
+  weather:
+    name: Tiempo
+  life:
+    name: Vida
+  places:
+    name: Lugares
+  things:
+    name: Cosas
+  travel:
+    name: Viajes
+sounds:
+  air_travel:
+    name: Viajes en avión
+  birds:
+    name: Pájaros
+  coffee_shop:
+    name: Cafetería
+  crickets:
+    name: Grillos
+  electric_car:
+    name: Coche eléctrico
+  heartbeat:
+    name: Latidos del corazón
+  night:
+    name: Noche
+  office:
+    name: Oficina
+  pink_noise:
+    name: Ruido Rosa
+  purring_cat:
+    name: Ronroneo del gato
+  quiet_conversations:
+    name: Conversaciones en voz baja
+  rain:
+    name: Lluvia
+  scuba_diving:
+    name: Buceo
+  seagulls:
+    name: Gaviotas
+  seashore:
+    name: Playa
+  thunder:
+    name: Truenos
+  train:
+    name: Tren
+  walking_in_snow:
+    name: Andando por la nieve
+  wall_clock:
+    name: Reloj de Pared
+  water_stream:
+    name: Corriente de agua
+  white_noise:
+    name: Ruido Blanco
+  wind_chimes:
+    name: Campanillas de viento
+  wind_through_palm_trees:
+    name: Viento entre las palmeras
+  wolves:
+    name: Lobos
+  campfire:
+    name: Fogata
+  creaking_boat:
+    name: Crujir de un barco
+  brownian_noise:
+    name: Ruido Browniano
+  fan:
+    name: Ventilador
+  public_library:
+    name: Biblioteca Pública
+  soft_wind:
+    name: Viento Suave
+  village_morning:
+    name: Por la mañana en una aldea
+tags:
+  animal:
+    name: Animales
+  night:
+    name: Noche
+  outdoor:
+    name: En el exterior
+  people:
+    name: Gente
+  static:
+    name: Estática
+  travel:
+    name: Viajes
+  vehicle:
+    name: Vehículos
+  water:
+    name: Agua
+  indoor:
+    name: En interiores
+  utility:
+    name: Herramientas
+  weather:
+    name: Clima

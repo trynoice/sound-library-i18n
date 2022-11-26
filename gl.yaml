@@ -1,0 +1,99 @@
+groups:
+  life:
+    name: A vida
+  places:
+    name: Lugares
+  raw_noise:
+    name: Ruído en bruto
+  things:
+    name: Cousas
+  travel:
+    name: Viaxes
+  weather:
+    name: Tempo
+sounds:
+  birds:
+    name: Paxaros
+  brownian_noise:
+    name: Ruído Browniano
+  coffee_shop:
+    name: Cafetería
+  crickets:
+    name: Grilos
+  electric_car:
+    name: Coche Eléctrico
+  fan:
+    name: Ventilador
+  heartbeat:
+    name: Latexo do corazón
+  night:
+    name: Noite
+  office:
+    name: Oficina
+  pink_noise:
+    name: Ruído Rosa
+  public_library:
+    name: Biblioteca Pública
+  purring_cat:
+    name: Gato ronroneando
+  rain:
+    name: Choiva
+  scuba_diving:
+    name: Mergullar
+  seagulls:
+    name: Gaivotas
+  seashore:
+    name: Praia
+  soft_wind:
+    name: Vento suave
+  thunder:
+    name: Trono
+  train:
+    name: Tren
+  village_morning:
+    name: Mañá nunha aldea
+  wall_clock:
+    name: Reloxo de parede
+  white_noise:
+    name: Ruído Branco
+  wind_chimes:
+    name: Carillons de vento
+  wind_through_palm_trees:
+    name: Vento a través das palmeiras
+  air_travel:
+    name: Viaxes en avión
+  campfire:
+    name: Fogueira
+  creaking_boat:
+    name: Rechinar dun barco
+  quiet_conversations:
+    name: Conversas tranquilas
+  wolves:
+    name: Lobos
+  walking_in_snow:
+    name: Camiñando na neve
+  water_stream:
+    name: Regueiro de Auga
+tags:
+  indoor:
+    name: Interior
+  outdoor:
+    name: Ao aire libre
+  static:
+    name: Estática
+  travel:
+    name: Viaxar
+  utility:
+    name: Ferramentas
+  vehicle:
+    name: Vehículos
+  water:
+    name: Auga
+  weather:
+    name: Tempo
+  people:
+    name: Persoas
+  animal:
+    name: Animais
+  night:
+    name: Noite
