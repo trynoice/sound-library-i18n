@@ -1,1 +1,99 @@
-{}
+groups:
+  places:
+    name: स्थान
+  things:
+    name: चीज़ें
+  travel:
+    name: सफर
+  weather:
+    name: मौसम
+  raw_noise:
+    name: कच्चा शोर
+  life:
+    name: जीवन
+sounds:
+  birds:
+    name: पक्षी
+  brownian_noise:
+    name: ब्राउनियन शोर
+  campfire:
+    name: अलाव
+  crickets:
+    name: झींगुर
+  fan:
+    name: पंखा
+  night:
+    name: रात
+  office:
+    name: दफ्तर
+  pink_noise:
+    name: पिंक शोर
+  public_library:
+    name: सार्वजनिक पुस्तकालय
+  purring_cat:
+    name: बिल्ली की घुरघुराहट
+  scuba_diving:
+    name: स्कूबा डाइविंग
+  seagulls:
+    name: सीगल
+  seashore:
+    name: समुद्रतट
+  soft_wind:
+    name: शीतल हवा
+  thunder:
+    name: गड़गड़ाहट
+  train:
+    name: रेलगाड़ी
+  walking_in_snow:
+    name: बर्फ में चलना
+  wall_clock:
+    name: दीवार घड़ी
+  water_stream:
+    name: जलधारा
+  white_noise:
+    name: सफेद शोर
+  wind_chimes:
+    name: घंटानाद
+  wolves:
+    name: भेड़िये
+  air_travel:
+    name: हवाई सफर
+  coffee_shop:
+    name: कॉफी शॉप
+  creaking_boat:
+    name: चरमराती नाव
+  electric_car:
+    name: इलेक्ट्रिक कार
+  rain:
+    name: बारिश
+  heartbeat:
+    name: धड़कन
+  wind_through_palm_trees:
+    name: खजूर के पेड़ों से हवा
+  quiet_conversations:
+    name: शांत वार्तालाप
+  village_morning:
+    name: गाँव की सुबह
+tags:
+  animal:
+    name: जानवर
+  indoor:
+    name: भीतरी
+  night:
+    name: रात
+  outdoor:
+    name: बाहरी
+  people:
+    name: लोग
+  travel:
+    name: यात्रा
+  utility:
+    name: यूटिलिटी
+  vehicle:
+    name: वाहन
+  water:
+    name: पानी
+  weather:
+    name: मौसम
+  static:
+    name: स्थिर
