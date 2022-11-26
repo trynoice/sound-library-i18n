@@ -5,7 +5,10 @@
 </p>
 <h1 align="center">Noice Sound Library Strings</h1>
 
-Translatable strings used by the Noice sound library.
+[![Translation status](https://hosted.weblate.org/widgets/noice/-/sound-library/svg-badge.svg)](https://hosted.weblate.org/projects/noice/sound-library/)
+
+Translatable strings used by the Noice sound library. Please help us translate
+these on [Weblate](https://hosted.weblate.org/projects/noice/sound-library/)!
 
 ## License
 
