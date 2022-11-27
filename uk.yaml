@@ -1,0 +1,99 @@
+sounds:
+  crickets:
+    name: Цвіркуни
+  air_travel:
+    name: Авіаподорожі
+  campfire:
+    name: Ватра
+  coffee_shop:
+    name: Кав'ярня
+  creaking_boat:
+    name: Скрипучий човен
+  fan:
+    name: Вентилятор
+  office:
+    name: Офіс
+  quiet_conversations:
+    name: Тиха бесіда
+  rain:
+    name: Дощ
+  scuba_diving:
+    name: Підводне плавання
+  seagulls:
+    name: Чайки
+  train:
+    name: Потяг
+  village_morning:
+    name: Ранок у селі
+  walking_in_snow:
+    name: Прогулянка по снігу
+  wall_clock:
+    name: Настінний годинник
+  wind_chimes:
+    name: Вітряні куранти
+  wind_through_palm_trees:
+    name: Вітер крізь пальми
+  birds:
+    name: Птахи
+  brownian_noise:
+    name: Броунівський шум
+  public_library:
+    name: Громадська бібліотека
+  soft_wind:
+    name: Легкий вітер
+  electric_car:
+    name: Електромобіль
+  night:
+    name: Ніч
+  wolves:
+    name: Вовки
+  seashore:
+    name: Морський берег
+  heartbeat:
+    name: Серцебиття
+  pink_noise:
+    name: Рожевий шум
+  purring_cat:
+    name: Муркотіння кота
+  water_stream:
+    name: Потік води
+  thunder:
+    name: Грім
+  white_noise:
+    name: Білий шум
+groups:
+  raw_noise:
+    name: Необроблений шум
+  things:
+    name: Речі
+  travel:
+    name: Мандрівка
+  weather:
+    name: Погода
+  life:
+    name: Життя
+  places:
+    name: Місця
+tags:
+  animal:
+    name: Тварини
+  indoor:
+    name: У приміщенні
+  night:
+    name: Ніч
+  people:
+    name: Люди
+  static:
+    name: Статичний
+  utility:
+    name: Інструменти
+  vehicle:
+    name: Транспорт
+  water:
+    name: Вода
+  travel:
+    name: Мандрівка
+  outdoor:
+    name: На вулиці
+  weather:
+    name: Погода
