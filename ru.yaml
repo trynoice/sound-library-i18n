@@ -1,1 +1,99 @@
-{}
+groups:
+  raw_noise:
+    name: Чистый шум
+  things:
+    name: Вещи
+  travel:
+    name: Путешествие
+  life:
+    name: Жизнь
+  places:
+    name: Места
+  weather:
+    name: Погода
+sounds:
+  air_travel:
+    name: Авиаперевозки
+  birds:
+    name: Птицы
+  brownian_noise:
+    name: Броуновский шум
+  campfire:
+    name: Костер
+  crickets:
+    name: Сверчки
+  night:
+    name: Ночь
+  office:
+    name: Офис
+  pink_noise:
+    name: Розовый шум
+  public_library:
+    name: Публичная библиотека
+  rain:
+    name: Дождь
+  scuba_diving:
+    name: Плавание с аквалангом
+  seagulls:
+    name: Чайки
+  seashore:
+    name: Морской берег
+  walking_in_snow:
+    name: Прогулка по снегу
+  wall_clock:
+    name: Настенные часы
+  wind_chimes:
+    name: Ветряные колокольчики
+  wolves:
+    name: Волки
+  soft_wind:
+    name: Мягкий ветер
+  electric_car:
+    name: Электромобиль
+  fan:
+    name: Вентилятор
+  coffee_shop:
+    name: Кофейня
+  purring_cat:
+    name: Мурлыкающий кот
+  creaking_boat:
+    name: Скрипучая лодка
+  heartbeat:
+    name: Сердцебиение
+  quiet_conversations:
+    name: Тихие разговоры
+  thunder:
+    name: Гром
+  village_morning:
+    name: Утро в деревне
+  white_noise:
+    name: Белый шум
+  train:
+    name: Поезд
+  water_stream:
+    name: Водный поток
+  wind_through_palm_trees:
+    name: Ветер в пальмовых деревьях
+tags:
+  animal:
+    name: Животные
+  indoor:
+    name: В помещении
+  night:
+    name: Ночь
+  outdoor:
+    name: На открытом воздухе
+  travel:
+    name: Путешествие
+  utility:
+    name: Коммунальное хозяйство
+  vehicle:
+    name: Транспортное средство
+  water:
+    name: Вода
+  weather:
+    name: Погода
+  static:
+    name: Статический
+  people:
+    name: Люди
