@@ -1,1 +1,99 @@
-{}
+groups:
+  places:
+    name: Orte
+  life:
+    name: Leben
+  raw_noise:
+    name: Grobes Rauschen
+  things:
+    name: Dinge
+  travel:
+    name: Reise
+  weather:
+    name: Wetter
+sounds:
+  crickets:
+    name: Grillen
+  night:
+    name: Nacht
+  purring_cat:
+    name: Schnurrende Katze
+  soft_wind:
+    name: Leichter Wind
+  air_travel:
+    name: Flugreisen
+  birds:
+    name: Vögel
+  brownian_noise:
+    name: Brownsches Rauschen
+  campfire:
+    name: Lagerfeuer
+  coffee_shop:
+    name: Kaffeehaus
+  creaking_boat:
+    name: Knarrendes Boot
+  electric_car:
+    name: Elektroauto
+  fan:
+    name: Kühlerlüfter
+  heartbeat:
+    name: Herzschlag
+  office:
+    name: Büro
+  pink_noise:
+    name: Rosa Rauschen
+  public_library:
+    name: Öffentliche Bibliothek
+  quiet_conversations:
+    name: Stille Unterhaltungen
+  rain:
+    name: Regen
+  scuba_diving:
+    name: Sporttauchen
+  seagulls:
+    name: Möwen
+  seashore:
+    name: Meeresufer
+  thunder:
+    name: Donner
+  train:
+    name: Zug
+  village_morning:
+    name: Morgen in einem Dorf
+  walking_in_snow:
+    name: Wandern im Schnee
+  wall_clock:
+    name: Wanduhr
+  water_stream:
+    name: Wasserlauf
+  white_noise:
+    name: Weißes Rauschen
+  wind_chimes:
+    name: Windspiel
+  wind_through_palm_trees:
+    name: Wind durch Palmen
+  wolves:
+    name: Wölfe
+tags:
+  animal:
+    name: Tiere
+  indoor:
+    name: Innen
+  night:
+    name: Nacht
+  outdoor:
+    name: Draußen
+  people:
+    name: Leute
+  static:
+    name: Rauschen
+  travel:
+    name: Reise
+  utility:
+    name: Werkzeuge
+  vehicle:
+    name: Fahrzeug
+  water:
+    name: Wasser
+  weather:
+    name: Wetter

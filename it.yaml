@@ -1,1 +1,54 @@
-{}
+groups:
+  life:
+    name: Vita
+  places:
+    name: Luoghi
+  raw_noise:
+    name: Rumore grezzo
+  things:
+    name: Cose
+  travel:
+    name: Viaggio
+  weather:
+    name: Meteo
+sounds:
+  air_travel:
+    name: Viaggio aereo
+  birds:
+    name: Uccelli
+  brownian_noise:
+    name: Rumore marrone
+  campfire:
+    name: Falò
+  coffee_shop:
+    name: Caffetteria
+  creaking_boat:
+    name: Barca scricchiolante
+  crickets:
+    name: Grilli
+  electric_car:
+    name: Auto elettrica
+  fan:
+    name: Ventilatore
+  heartbeat:
+    name: Battito del cuore
+  night:
+    name: Notte
+  office:
+    name: Ufficio
+  pink_noise:
+    name: Rumore rosa
+  public_library:
+    name: Biblioteca
+  purring_cat:
+    name: Fusa
+  rain:
+    name: Pioggia
+  quiet_conversations:
+    name: Conversazione sottovoce
+  scuba_diving:
+    name: Immersioni subacquee
+  seagulls:
+    name: Gabbiani
+  seashore:
+    name: Spiaggia

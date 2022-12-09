@@ -1,1 +1,99 @@
-{}
+groups:
+  life:
+    name: Vie
+  places:
+    name: Lieux
+  raw_noise:
+    name: Bruit brut
+  things:
+    name: Choses
+  travel:
+    name: Voyage
+  weather:
+    name: Météo
+sounds:
+  air_travel:
+    name: Voyage aérien
+  birds:
+    name: Oiseaux
+  brownian_noise:
+    name: Bruit brownien
+  campfire:
+    name: Feu de camp
+  coffee_shop:
+    name: Café
+  creaking_boat:
+    name: Bateau grinçant
+  crickets:
+    name: Grillons
+  electric_car:
+    name: Voiture électrique
+  fan:
+    name: Ventilateur
+  heartbeat:
+    name: Battement de cœur
+  pink_noise:
+    name: Bruit rose
+  night:
+    name: Nuit
+  office:
+    name: Bureau
+  public_library:
+    name: Bibliothèque publique
+  purring_cat:
+    name: Chat ronronnant
+  quiet_conversations:
+    name: Conversations tranquilles
+  rain:
+    name: Pluie
+  scuba_diving:
+    name: Plongée sous-marine
+  seagulls:
+    name: Mouettes
+  seashore:
+    name: Bord de mer
+  soft_wind:
+    name: Vent doux
+  thunder:
+    name: Tonnerre
+  village_morning:
+    name: Matin dans un village
+  train:
+    name: Train
+  walking_in_snow:
+    name: Marcher dans la neige
+  wall_clock:
+    name: Horloge murale
+  water_stream:
+    name: Cours d’eau
+  white_noise:
+    name: Bruit blanc
+  wind_chimes:
+    name: Carillons éoliens
+  wind_through_palm_trees:
+    name: Vent dans les palmiers
+  wolves:
+    name: Loups
+tags:
+  animal:
+    name: Animaux
+  indoor:
+    name: Intérieur
+  night:
+    name: Nuit
+  outdoor:
+    name: Extérieur
+  people:
+    name: Gens
+  static:
+    name: Bruits parasites
+  travel:
+    name: Voyage
+  utility:
+    name: Utilitaire
+  vehicle:
+    name: Véhicule
+  water:
+    name: Eau
+  weather:
+    name: Météo
