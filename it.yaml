@@ -52,3 +52,48 @@ sounds:
     name: Gabbiani
   seashore:
     name: Spiaggia
+  soft_wind:
+    name: Vento morbido
+  thunder:
+    name: Tuono
+  train:
+    name: Treno
+  village_morning:
+    name: Mattina in un villaggio
+  walking_in_snow:
+    name: Camminare nella neve
+  wall_clock:
+    name: Orologio da parete
+  water_stream:
+    name: Flusso d’acqua
+  wolves:
+    name: Lupi
+  white_noise:
+    name: Rumore bianco
+  wind_chimes:
+    name: Campanelli eolici
+  wind_through_palm_trees:
+    name: Vento tra le palme
+tags:
+  animal:
+    name: Animali
+  indoor:
+    name: Interno
+  night:
+    name: Notte
+  outdoor:
+    name: Esterno
+  people:
+    name: Gente
+  static:
+    name: Rumore
+  travel:
+    name: Viaggio
+  utility:
+    name: Utilità
+  vehicle:
+    name: Veicolo
+  water:
+    name: Acqua
+  weather:
+    name: Meteo
