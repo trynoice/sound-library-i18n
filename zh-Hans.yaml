@@ -3,3 +3,97 @@ groups:
     name: 生机
   places:
     name: 场所
+  raw_noise:
+    name: 噪声
+  weather:
+    name: 气象
+  travel:
+    name: 旅行
+  things:
+    name: 物件
+sounds:
+  birds:
+    name: 鸟叫
+  campfire:
+    name: 篝火
+  coffee_shop:
+    name: 咖啡店
+  creaking_boat:
+    name: 浮船
+  electric_car:
+    name: 电车
+  night:
+    name: 夜间
+  office:
+    name: 办公室
+  pink_noise:
+    name: 粉噪声
+  public_library:
+    name: 公共图书馆
+  purring_cat:
+    name: 打呼噜的猫
+  scuba_diving:
+    name: 潜水
+  seagulls:
+    name: 海鸥
+  seashore:
+    name: 海岸
+  village_morning:
+    name: 乡间清晨
+  walking_in_snow:
+    name: 雪中漫步
+  wall_clock:
+    name: 壁钟
+  water_stream:
+    name: 溪流
+  white_noise:
+    name: 白噪声
+  wind_chimes:
+    name: 风铃
+  wolves:
+    name: 狼群
+  air_travel:
+    name: 航班飞行
+  brownian_noise:
+    name: 布朗噪声
+  fan:
+    name: 风扇
+  heartbeat:
+    name: 心跳
+  crickets:
+    name: 虫鸣
+  thunder:
+    name: 雷鸣
+  quiet_conversations:
+    name: 轻声交谈
+  rain:
+    name: 雨
+  soft_wind:
+    name: 微风
+  train:
+    name: 火车
+  wind_through_palm_trees:
+    name: 风吹棕榈
+tags:
+  animal:
+    name: 动物
+  indoor:
+    name: 室内
+  night:
+    name: 夜间
+  outdoor:
+    name: 户外
+  people:
+    name: 人群
+  static:
+    name: 静态
+  utility:
+    name: 公共场所
+  water:
+    name: 水
+  weather:
+    name: 气象
+  travel:
+    name: 旅行
+  vehicle:
+    name: 汽车
