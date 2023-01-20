@@ -1,1 +1,99 @@
-{}
+groups:
+  life:
+    name: 生活
+  places:
+    name: 地點
+  raw_noise:
+    name: 原始噪音
+  things:
+    name: 事物
+  travel:
+    name: 旅行
+  weather:
+    name: 天氣
+sounds:
+  office:
+    name: 辦公室
+  village_morning:
+    name: 村莊的早晨
+  walking_in_snow:
+    name: 雪中行走
+  campfire:
+    name: 營火
+  coffee_shop:
+    name: 咖啡廳
+  crickets:
+    name: 蟋蟀
+  fan:
+    name: 扇子
+  water_stream:
+    name: 水流
+  train:
+    name: 火車
+  air_travel:
+    name: 航空旅行
+  creaking_boat:
+    name: 吱吱作響的船
+  electric_car:
+    name: 電動車
+  brownian_noise:
+    name: 布朗噪聲
+  heartbeat:
+    name: 心跳
+  night:
+    name: 夜晚
+  purring_cat:
+    name: 呼嚕貓
+  seagulls:
+    name: 海鷗
+  thunder:
+    name: 雷
+  birds:
+    name: 鳥類
+  soft_wind:
+    name: 輕風
+  wall_clock:
+    name: 掛鐘
+  pink_noise:
+    name: 粉紅噪音
+  public_library:
+    name: 公共圖書館
+  quiet_conversations:
+    name: 安靜的談話
+  scuba_diving:
+    name: 水肺潛水
+  seashore:
+    name: 海濱
+  wolves:
+    name: 狼
+  rain:
+    name: 雨
+  white_noise:
+    name: 白噪聲
+  wind_chimes:
+    name: 風鈴
+  wind_through_palm_trees:
+    name: 風吹過棕櫚樹
+tags:
+  indoor:
+    name: 室內的
+  static:
+    name: 靜止的
+  outdoor:
+    name: 戶外的
+  people:
+    name: 人
+  animal:
+    name: 動物
+  night:
+    name: 夜晚
+  travel:
+    name: 旅行
+  vehicle:
+    name: 車輛
+  water:
+    name: 水
+  weather:
+    name: 天氣
+  utility:
+    name: 工具
