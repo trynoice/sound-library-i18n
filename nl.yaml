@@ -1,1 +1,28 @@
-{}
+groups:
+  travel:
+    name: Reizen
+  weather:
+    name: Weer
+sounds:
+  birds:
+    name: Vogels
+  campfire:
+    name: Kampvuur
+  crickets:
+    name: Krekels
+  electric_car:
+    name: Elektrische Auto
+  heartbeat:
+    name: Hartslag
+  night:
+    name: Nacht
+  office:
+    name: Kantoor
+  public_library:
+    name: Openbare Bibliotheek
+  purring_cat:
+    name: Spinnende Kat
+  rain:
+    name: Regen
+  train:
+    name: Trein
