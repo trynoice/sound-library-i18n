@@ -1,1 +1,26 @@
-{}
+groups:
+  places:
+    name: أماكنر
+  things:
+    name: أشياء
+  travel:
+    name: سفر
+  weather:
+    name: طقس
+sounds:
+  air_travel:
+    name: سفر جوي
+  birds:
+    name: طيور
+  campfire:
+    name: نار المخيم
+  coffee_shop:
+    name: مقهى
+  electric_car:
+    name: سيارة كهربائية
+  heartbeat:
+    name: دقة قلب
+  night:
+    name: ليلة
+  office:
+    name: مكتب
