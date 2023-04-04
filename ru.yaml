@@ -17,9 +17,9 @@ sounds:
   birds:
     name: Птицы
   brownian_noise:
-    name: Броуновский шум
+    name: Красный шум
   campfire:
-    name: Костер
+    name: Костёр
   crickets:
     name: Сверчки
   night:
@@ -29,7 +29,7 @@ sounds:
   pink_noise:
     name: Розовый шум
   public_library:
-    name: Публичная библиотека
+    name: Общественная библиотека
   rain:
     name: Дождь
   scuba_diving:
