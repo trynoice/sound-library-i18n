@@ -1,1 +1,97 @@
-{}
+groups:
+  life:
+    name: Ze života
+  places:
+    name: Místa
+  raw_noise:
+    name: Čistý šum
+  things:
+    name: Věci
+  travel:
+    name: Cestování
+  weather:
+    name: Počasí
+sounds:
+  air_travel:
+    name: Letecká doprava
+  birds:
+    name: Ptáci
+  brownian_noise:
+    name: Hnědý šum
+  campfire:
+    name: Táborák
+  coffee_shop:
+    name: Kavárna
+  creaking_boat:
+    name: Vrzající člun
+  crickets:
+    name: Cvrčci
+  electric_car:
+    name: Elektromobil
+  fan:
+    name: Větrák
+  heartbeat:
+    name: Tlukot srdce
+  night:
+    name: Noc
+  office:
+    name: Kanceláře
+  pink_noise:
+    name: Růžový šum
+  public_library:
+    name: Veřejná knihovna
+  purring_cat:
+    name: Předení kočky
+  quiet_conversations:
+    name: Tichá konverzace
+  rain:
+    name: Déšť
+  scuba_diving:
+    name: Potápění
+  seagulls:
+    name: Racci
+  seashore:
+    name: Pobřeží
+  soft_wind:
+    name: Jemný vítr
+  thunder:
+    name: Hrom
+  train:
+    name: Vlak
+  village_morning:
+    name: Ráno na vesnici
+  walking_in_snow:
+    name: Procházka sněhem
+  wall_clock:
+    name: Nástěnné hodiny
+  water_stream:
+    name: Zurčení potůčku
+  white_noise:
+    name: Bílý šum
+  wind_chimes:
+    name: Zvonkohra
+  wind_through_palm_trees:
+    name: Vítr mezi palmami
+  wolves:
+    name: Vlci
+tags:
+  animal:
+    name: Zvířata
+  indoor:
+    name: V budově
+  night:
+    name: Noc
+  outdoor:
+    name: Venku
+  people:
+    name: Lidé
+  travel:
+    name: Cestování
+  utility:
+    name: Nástroje
+  vehicle:
+    name: Vozidla
+  water:
+    name: Voda
+  weather:
+    name: Počasí
