@@ -1,1 +1,93 @@
-{}
+sounds:
+  fan:
+    name: ファン
+  rain:
+    name: 雨
+  train:
+    name: 電車
+  air_travel:
+    name: 空の旅
+  birds:
+    name: 鳥
+  brownian_noise:
+    name: ブラウンノイズ
+  campfire:
+    name: 焚火
+  coffee_shop:
+    name: 喫茶店
+  creaking_boat:
+    name: 軋むボート
+  crickets:
+    name: 秋の虫
+  electric_car:
+    name: 電気自動車
+  heartbeat:
+    name: 心音
+  night:
+    name: 夜
+  office:
+    name: オフィス
+  pink_noise:
+    name: ピンクノイズ
+  public_library:
+    name: 図書館
+  purring_cat:
+    name: 喉を鳴らすネコ
+  quiet_conversations:
+    name: 静かな会話
+  scuba_diving:
+    name: スキューバダイビング
+  seagulls:
+    name: カモメ
+  seashore:
+    name: 海岸
+  soft_wind:
+    name: そよ風
+  thunder:
+    name: 雷
+  wall_clock:
+    name: 掛け時計
+  village_morning:
+    name: 田舎の朝
+  walking_in_snow:
+    name: 雪道を歩く
+  water_stream:
+    name: 水流
+  white_noise:
+    name: ホワイトノイズ
+  wind_chimes:
+    name: 風鈴
+  wind_through_palm_trees:
+    name: ヤシの木を通る風
+  wolves:
+    name: オオカミ
+groups:
+  life:
+    name: ライフ
+  places:
+    name: 場所
+  things:
+    name: 物
+  raw_noise:
+    name: 雑音
+  travel:
+    name: 旅行
+  weather:
+    name: 天気
+tags:
+  animal:
+    name: 動物
+  indoor:
+    name: 屋内
+  night:
+    name: 夜
+  outdoor:
+    name: 屋外
+  people:
+    name: 人々
+  travel:
+    name: 旅行
+  water:
+    name: 水
+  weather:
+    name: 天気
