@@ -1,1 +1,99 @@
-{}
+groups:
+  life:
+    name: Kehidupan
+  places:
+    name: Tempat
+  raw_noise:
+    name: Kebisingan Mentah
+  travel:
+    name: Perjalanan
+  things:
+    name: Benda
+  weather:
+    name: Cuaca
+sounds:
+  air_travel:
+    name: Perjalanan Udara
+  birds:
+    name: Burung
+  campfire:
+    name: Api Unggun
+  coffee_shop:
+    name: Kedai Kopi
+  creaking_boat:
+    name: Perahu Berderit
+  electric_car:
+    name: Mobil Listrik
+  fan:
+    name: Kipas Angin
+  heartbeat:
+    name: Detak Jantung
+  night:
+    name: Malam
+  office:
+    name: Kantor
+  pink_noise:
+    name: Kebisingan Pink
+  quiet_conversations:
+    name: Percakapan Tenang
+  rain:
+    name: Hujan
+  public_library:
+    name: Perpustakaan Umum
+  purring_cat:
+    name: Kucing Mendengkur
+  walking_in_snow:
+    name: Berjalan di Salju
+  scuba_diving:
+    name: Scuba Diving
+  seagulls:
+    name: Burung Camar
+  seashore:
+    name: Pantai
+  soft_wind:
+    name: Angin Lembut
+  thunder:
+    name: Guntur
+  train:
+    name: Kereta Api
+  village_morning:
+    name: Pagi di Desa
+  wall_clock:
+    name: Jam Dinding
+  water_stream:
+    name: Aliran Air
+  white_noise:
+    name: Kebisingan Putih
+  wind_chimes:
+    name: Lonceng Angin
+  wind_through_palm_trees:
+    name: Angin Menembus Pohon Palem
+  wolves:
+    name: Serigala
+  brownian_noise:
+    name: Kebisingan Brownian
+  crickets:
+    name: Jangkrik
+tags:
+  indoor:
+    name: Dalam Ruangan
+  night:
+    name: Malam
+  outdoor:
+    name: Luar Ruangan
+  animal:
+    name: Binatang
+  people:
+    name: Orang
+  static:
+    name: Statis
+  travel:
+    name: Perjalanan
+  utility:
+    name: Alat
+  vehicle:
+    name: Kendaraan
+  water:
+    name: Air
+  weather:
+    name: Cuaca
