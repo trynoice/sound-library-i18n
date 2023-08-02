@@ -91,3 +91,9 @@ tags:
     name: 水
   weather:
     name: 天気
+  vehicle:
+    name: ''
+  static:
+    name: ''
+  utility:
+    name: ''
