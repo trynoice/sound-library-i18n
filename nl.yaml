@@ -3,6 +3,14 @@ groups:
     name: Reizen
   weather:
     name: Weer
+  life:
+    name: ''
+  places:
+    name: ''
+  raw_noise:
+    name: ''
+  things:
+    name: ''
 sounds:
   birds:
     name: Vogels
@@ -26,3 +34,66 @@ sounds:
     name: Regen
   train:
     name: Trein
+  soft_wind:
+    name: ''
+  water_stream:
+    name: ''
+  fan:
+    name: ''
+  brownian_noise:
+    name: ''
+  wall_clock:
+    name: ''
+  wind_chimes:
+    name: ''
+  thunder:
+    name: ''
+  pink_noise:
+    name: ''
+  wind_through_palm_trees:
+    name: ''
+  village_morning:
+    name: ''
+  seagulls:
+    name: ''
+  seashore:
+    name: ''
+  air_travel:
+    name: ''
+  coffee_shop:
+    name: ''
+  wolves:
+    name: ''
+  quiet_conversations:
+    name: ''
+  scuba_diving:
+    name: ''
+  creaking_boat:
+    name: ''
+  white_noise:
+    name: ''
+  walking_in_snow:
+    name: ''
+tags:
+  indoor:
+    name: ''
+  utility:
+    name: ''
+  travel:
+    name: ''
+  animal:
+    name: ''
+  static:
+    name: ''
+  people:
+    name: ''
+  weather:
+    name: ''
+  water:
+    name: ''
+  night:
+    name: ''
+  vehicle:
+    name: ''
+  outdoor:
+    name: ''
