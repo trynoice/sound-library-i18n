@@ -1,1 +1,99 @@
-{}
+groups:
+  raw_noise:
+    name: ''
+  things:
+    name: ''
+  weather:
+    name: ''
+  places:
+    name: ''
+  travel:
+    name: ''
+  life:
+    name: ''
+sounds:
+  air_travel:
+    name: ''
+  campfire:
+    name: ''
+  creaking_boat:
+    name: ''
+  fan:
+    name: ''
+  purring_cat:
+    name: ''
+  seashore:
+    name: ''
+  soft_wind:
+    name: ''
+  walking_in_snow:
+    name: ''
+  water_stream:
+    name: ''
+  white_noise:
+    name: ''
+  wind_through_palm_trees:
+    name: ''
+  quiet_conversations:
+    name: ''
+  scuba_diving:
+    name: ''
+  public_library:
+    name: ''
+  electric_car:
+    name: ''
+  office:
+    name: ''
+  rain:
+    name: ''
+  brownian_noise:
+    name: ''
+  coffee_shop:
+    name: ''
+  train:
+    name: ''
+  night:
+    name: ''
+  village_morning:
+    name: ''
+  wall_clock:
+    name: ''
+  thunder:
+    name: ''
+  heartbeat:
+    name: ''
+  crickets:
+    name: ''
+  seagulls:
+    name: ''
+  birds:
+    name: ''
+  pink_noise:
+    name: ''
+  wolves:
+    name: ''
+  wind_chimes:
+    name: ''
+tags:
+  static:
+    name: ''
+  vehicle:
+    name: ''
+  outdoor:
+    name: ''
+  animal:
+    name: ''
+  people:
+    name: ''
+  travel:
+    name: ''
+  water:
+    name: ''
+  weather:
+    name: ''
+  night:
+    name: ''
+  indoor:
+    name: ''
+  utility:
+    name: ''
