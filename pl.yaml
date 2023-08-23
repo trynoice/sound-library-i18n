@@ -1,1 +1,57 @@
-{}
+groups:
+  things:
+    name: Rzeczy
+  life:
+    name: Życie
+  travel:
+    name: Podróż
+  places:
+    name: Miejsca
+  weather:
+    name: Pogoda
+sounds:
+  birds:
+    name: Ptaki
+  fan:
+    name: Wentylator
+  heartbeat:
+    name: Bicie serca
+  night:
+    name: Noc
+  office:
+    name: Biuro
+  rain:
+    name: Deszcz
+  crickets:
+    name: Świerszcze
+  seashore:
+    name: Brzeg morza
+  thunder:
+    name: Burza
+  train:
+    name: Pociąg
+  wolves:
+    name: Wilki
+tags:
+  static:
+    name: Statyczny
+  indoor:
+    name: Wewnątrz
+  utility:
+    name: Narzędzie
+  people:
+    name: Ludzie
+  water:
+    name: Woda
+  weather:
+    name: Pogoda
+  animal:
+    name: Zwierzęta
+  night:
+    name: Noc
+  travel:
+    name: Podróż
+  vehicle:
+    name: Pojazd
+  outdoor:
+    name: Na zewnątrz
