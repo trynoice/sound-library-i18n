@@ -7,6 +7,10 @@ groups:
     name: سفر
   weather:
     name: طقس
+  life:
+    name: الحياة
+  raw_noise:
+    name: ضوضاء خام
 sounds:
   air_travel:
     name: سفر جوي
@@ -24,3 +28,72 @@ sounds:
     name: ليلة
   office:
     name: مكتب
+  creaking_boat:
+    name: صرير القارب
+  crickets:
+    name: صراصير
+  fan:
+    name: مروحة
+  soft_wind:
+    name: رياح خفيفة
+  thunder:
+    name: رعد
+  brownian_noise:
+    name: ضوضاء بنية
+  pink_noise:
+    name: ضوضاء وردية
+  public_library:
+    name: المكتبة العامة
+  purring_cat:
+    name: هرير القطط
+  quiet_conversations:
+    name: محادثات هادئة
+  wind_through_palm_trees:
+    name: مرور الريح خلال أشجار النخيل
+  rain:
+    name: مطر
+  wolves:
+    name: ذئاب
+  scuba_diving:
+    name: الغوص
+  seagulls:
+    name: نوارس
+  seashore:
+    name: شاطئ البحر
+  train:
+    name: قطار
+  village_morning:
+    name: الصباح في القرية
+  walking_in_snow:
+    name: المشي على الثلج
+  wall_clock:
+    name: ساعة حائط
+  water_stream:
+    name: جدول مائي
+  white_noise:
+    name: ضوضاء بيضاء
+  wind_chimes:
+    name: أجراس الريح
+tags:
+  indoor:
+    name: بالداخل
+  night:
+    name: الليل
+  travel:
+    name: السفر
+  utility:
+    name: أداة
+  outdoor:
+    name: بالخارج
+  vehicle:
+    name: مركبة
+  water:
+    name: ماء
+  animal:
+    name: حيوانات
+  people:
+    name: الناس
+  weather:
+    name: الطقس
+  static:
+    name: تشويش
