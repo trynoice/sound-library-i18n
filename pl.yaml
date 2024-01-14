@@ -9,6 +9,8 @@ groups:
     name: Miejsca
   weather:
     name: Pogoda
+  raw_noise:
+    name: Czysty szum
 sounds:
   birds:
     name: Ptaki
@@ -32,6 +34,46 @@ sounds:
     name: Pociąg
   wolves:
     name: Wilki
+  air_travel:
+    name: Podróże powietrzne
+  campfire:
+    name: Ognisko obozowe
+  creaking_boat:
+    name: Skrzypiąca łódź
+  electric_car:
+    name: Samochód elektryczny
+  pink_noise:
+    name: Różowy szum
+  public_library:
+    name: Biblioteka
+  purring_cat:
+    name: Mruczący kot
+  quiet_conversations:
+    name: Ciche rozmowy
+  scuba_diving:
+    name: Nurkowanie
+  walking_in_snow:
+    name: Chodzenie po śniegu
+  wall_clock:
+    name: Zegar ścienny
+  water_stream:
+    name: Strumień wody
+  white_noise:
+    name: Biały szum
+  wind_chimes:
+    name: Dzwonki wietrzne
+  wind_through_palm_trees:
+    name: Wiatr wiejący przez palmy
+  brownian_noise:
+    name: Szum Browna
+  coffee_shop:
+    name: Kawiarnia
+  seagulls:
+    name: Mewy
+  soft_wind:
+    name: Lekki wiatr
+  village_morning:
+    name: Poranek na wsi
 tags:
   static:
     name: Statyczny
