@@ -1,1 +1,99 @@
-{}
+sounds:
+  heartbeat:
+    name: Batimento cardíaco
+  air_travel:
+    name: Viagem aérea
+  birds:
+    name: Pássaros
+  fan:
+    name: Ventoinha
+  wolves:
+    name: Lobos
+  brownian_noise:
+    name: Ruído Browniano
+  campfire:
+    name: Fogueira
+  coffee_shop:
+    name: Café
+  creaking_boat:
+    name: Barco a ranger
+  crickets:
+    name: Grilos
+  electric_car:
+    name: Carro elétrico
+  night:
+    name: Noite
+  office:
+    name: Escritório
+  pink_noise:
+    name: Ruído cor-de-rosa
+  public_library:
+    name: Biblioteca pública
+  purring_cat:
+    name: Gato a ronronar
+  quiet_conversations:
+    name: Conversas silenciosas
+  rain:
+    name: Chuva
+  scuba_diving:
+    name: Mergulho
+  seagulls:
+    name: Gaivotas
+  seashore:
+    name: Costa marítima
+  soft_wind:
+    name: Vento suave
+  thunder:
+    name: Trovão
+  train:
+    name: Comboio
+  village_morning:
+    name: Manhã numa aldeia
+  walking_in_snow:
+    name: Caminhada na neve
+  wall_clock:
+    name: Relógio de parede
+  water_stream:
+    name: Corrente de água
+  white_noise:
+    name: Ruído branco
+  wind_chimes:
+    name: Sinos de vento
+  wind_through_palm_trees:
+    name: Vento entre palmeiras
+groups:
+  life:
+    name: Vida
+  places:
+    name: Locais
+  things:
+    name: Coisas
+  raw_noise:
+    name: Ruído bruto
+  travel:
+    name: Viagem
+  weather:
+    name: Tempo
+tags:
+  animal:
+    name: Animais
+  indoor:
+    name: Interior
+  night:
+    name: Noite
+  outdoor:
+    name: Exterior
+  people:
+    name: Pessoas
+  static:
+    name: Estática
+  travel:
+    name: Viagem
+  utility:
+    name: Utilitário
+  vehicle:
+    name: Veículo
+  water:
+    name: Água
+  weather:
+    name: Tempo
