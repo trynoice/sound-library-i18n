@@ -1,1 +1,99 @@
-{}
+groups:
+  life:
+    name: Hayat
+  places:
+    name: Mekanlar
+  things:
+    name: Şeyler
+  weather:
+    name: Hava durumu
+  raw_noise:
+    name: Ham Gürültü
+  travel:
+    name: Seyahat
+sounds:
+  fan:
+    name: Fan
+  air_travel:
+    name: Hava yolculuğu
+  birds:
+    name: Kuşlar
+  brownian_noise:
+    name: Brown Gürültüsü
+  campfire:
+    name: Kamp ateşi
+  coffee_shop:
+    name: Kahvehane
+  creaking_boat:
+    name: Gıcırdayan Tekne
+  heartbeat:
+    name: Kalp atışı
+  night:
+    name: Gece
+  office:
+    name: Ofis
+  pink_noise:
+    name: Pembe Gürültü
+  public_library:
+    name: Halk Kütüphanesi
+  rain:
+    name: Yağmur
+  scuba_diving:
+    name: Dalma
+  seagulls:
+    name: Martılar
+  seashore:
+    name: Sahil
+  thunder:
+    name: Gök Gürültüsü
+  soft_wind:
+    name: Hafif Rüzgar
+  train:
+    name: Tren
+  village_morning:
+    name: Bir Köyde Sabah
+  crickets:
+    name: Cırcır böceği
+  electric_car:
+    name: Elektrikli Araba
+  purring_cat:
+    name: Mırlayan kedi
+  quiet_conversations:
+    name: Sessiz Konuşmalar
+  walking_in_snow:
+    name: Karda Yürümek
+  wall_clock:
+    name: Duvar Saati
+  water_stream:
+    name: Su Akışı
+  white_noise:
+    name: Beyaz Gürültü
+  wind_through_palm_trees:
+    name: Palmiye Ağaçlarının Arasında Rüzgar
+  wind_chimes:
+    name: Rüzgar Çanı
+  wolves:
+    name: Kurtlar
+tags:
+  utility:
+    name: Yarar
+  vehicle:
+    name: Araç
+  water:
+    name: Su
+  weather:
+    name: Hava Durumu
+  animal:
+    name: Hayvanlar
+  night:
+    name: Gece
+  indoor:
+    name: İç Mekan
+  people:
+    name: İnsanlar
+  outdoor:
+    name: Dış mekan
+  static:
+    name: Statik
+  travel:
+    name: Seyahat
