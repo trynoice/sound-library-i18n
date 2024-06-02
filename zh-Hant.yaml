@@ -41,7 +41,7 @@ sounds:
   heartbeat:
     name: 心跳
   night:
-    name: 夜晚
+    name: 夜間
   purring_cat:
     name: 呼嚕貓
   seagulls:
@@ -76,17 +76,17 @@ sounds:
     name: 風吹過棕櫚樹
 tags:
   indoor:
-    name: 室內的
+    name: 室內
   static:
     name: 靜止的
   outdoor:
-    name: 戶外的
+    name: 戶外
   people:
     name: 人
   animal:
     name: 動物
   night:
-    name: 夜晚
+    name: 夜間
   travel:
     name: 旅行
   vehicle:
