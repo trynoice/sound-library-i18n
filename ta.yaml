@@ -1,0 +1,99 @@
+groups:
+  life:
+    name: வாழ்க்கை
+  places:
+    name: இடங்கள்
+  raw_noise:
+    name: மூல ஒலி
+  things:
+    name: விசயங்கள்
+  travel:
+    name: பயணம்
+  weather:
+    name: வானிலை
+sounds:
+  creaking_boat:
+    name: படகுப் படகு
+  electric_car:
+    name: மின்சார கார்
+  fan:
+    name: விசிறி
+  heartbeat:
+    name: இதய துடிப்பு
+  night:
+    name: இரவு
+  office:
+    name: அலுவலகம்
+  crickets:
+    name: கிரிக்கெட்டுகள்
+  pink_noise:
+    name: இளஞ்செவ்விரைச்சல்
+  public_library:
+    name: பொது நூலகம்
+  purring_cat:
+    name: பூனை
+  quiet_conversations:
+    name: அமைதியான உரையாடல்கள்
+  rain:
+    name: மழை
+  scuba_diving:
+    name: ச்கூபா டைவிங்
+  seagulls:
+    name: சீகல்ச்
+  seashore:
+    name: கடற்கரை
+  soft_wind:
+    name: மென்மையான காற்று
+  thunder:
+    name: இடி
+  train:
+    name: ரயில்
+  village_morning:
+    name: ஒரு கிராமத்தில் காலை
+  water_stream:
+    name: நீர் நீரோடை
+  white_noise:
+    name: வெண்ணிறைச்சல்
+  walking_in_snow:
+    name: பனியில் நடப்பது
+  wall_clock:
+    name: சுவர் கடிகாரம்
+  wind_chimes:
+    name: காற்று மணி
+  wind_through_palm_trees:
+    name: பனை மரங்கள் வழியாக காற்று
+  wolves:
+    name: ஓநாய்கள்
+  air_travel:
+    name: விமான பயணம்
+  birds:
+    name: பறவைகள்
+  brownian_noise:
+    name: பிரவுனியன் ஒலி
+  campfire:
+    name: கேம்ப்ஃபயர்
+  coffee_shop:
+    name: காபி கடை
+tags:
+  animal:
+    name: விலங்குகள்
+  indoor:
+    name: உட்புறம்
+  people:
+    name: மக்கள்
+  static:
+    name: நிலையான
+  travel:
+    name: பயணம்
+  night:
+    name: இரவு
+  outdoor:
+    name: வெளிப்புறம்
+  utility:
+    name: பயன்பாடு
+  vehicle:
+    name: வண்டி
+  water:
+    name: நீர்
+  weather:
+    name: வானிலை

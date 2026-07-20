@@ -1,1 +1,25 @@
-{}
+groups:
+  travel:
+    name: Viatges
+  life:
+    name: Vida
+  things:
+    name: Coses
+  places:
+    name: Llocs
+sounds:
+  birds:
+    name: Ocells
+  heartbeat:
+    name: Batec
+  night:
+    name: Nit
+tags:
+  night:
+    name: Nit
+  people:
+    name: Gent
+  water:
+    name: Aigua
+  static:
+    name: Estàtica

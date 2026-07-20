@@ -1,1 +1,44 @@
-{}
+groups:
+  life:
+    name: زندگی
+  places:
+    name: مکان‌ها
+  things:
+    name: چیزها
+  travel:
+    name: سفر
+  weather:
+    name: آب‌و‌هوا
+sounds:
+  birds:
+    name: پرندگان
+  coffee_shop:
+    name: کافی‌شاپ
+  creaking_boat:
+    name: صدای کِرِک کِرِک قایق
+  electric_car:
+    name: خودروی برقی
+  fan:
+    name: فن
+  heartbeat:
+    name: ضربان‌قلب
+  night:
+    name: شب
+  public_library:
+    name: کتابخانه عمومی
+  quiet_conversations:
+    name: مکالمه‌های آرام
+  rain:
+    name: باران
+  thunder:
+    name: تندر
+  train:
+    name: قطار
+  village_morning:
+    name: صبح یک روستا
+  walking_in_snow:
+    name: راه رفتن در برف
+  wall_clock:
+    name: ساعت دیواری
+  water_stream:
+    name: جریان آب

@@ -1,1 +1,5 @@
-{}
+groups:
+  life:
+    name: জীবন
+  places:
+    name: অবস্থান সমূহ

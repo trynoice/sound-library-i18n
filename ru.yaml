@@ -1,6 +1,6 @@
 groups:
   raw_noise:
-    name: Чистый шум
+    name: Необработанный шум
   things:
     name: Вещи
   travel:

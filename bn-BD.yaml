@@ -1,1 +1,32 @@
-{}
+groups:
+  life:
+    name: জীবন
+  places:
+    name: জায়গা
+  things:
+    name: জিনিসপত্র
+  travel:
+    name: ভ্রমণ
+  weather:
+    name: আবহাওয়া
+sounds:
+  air_travel:
+    name: বিমান ভ্রমণ
+  birds:
+    name: "পাখিগুলো\nপাখিরা"
+  campfire:
+    name: ক্যাম্পফায়ার
+  coffee_shop:
+    name: কফিশপ
+  crickets:
+    name: ঝিঁঝি পোকা
+  electric_car:
+    name: বৈদ্যুতিক গাড়ি
+  fan:
+    name: পাখা
+  heartbeat:
+    name: হৃদস্পন্দন
+  night:
+    name: রাত
+  office:
+    name: অফিস
